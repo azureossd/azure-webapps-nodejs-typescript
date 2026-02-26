@@ -9,6 +9,7 @@ on:
     branches:
       - master
       - 'dependabot/**'
+      - '*'
 
   workflow_dispatch:
 
